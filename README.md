@@ -1,3 +1,18 @@
+#INSTALL 
+```
+# install uni--core
+git clone https://github.com/dptech-corp/Uni-Core.git
+cd Uni-Core
+pip install .
+
+# install rdkit
+pip install rdkit-pypi==2022.9.3
+
+# intall drugclip
+git clone git@github.com:UR-Free/DrugCLIP.git
+
+```
+
 # DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xxxx/blob/main/LICENSE)
